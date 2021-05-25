@@ -1,6 +1,6 @@
 # Bioinformatics
  This repository contains implementations to different algorithms used in the Bioinformatics field. 
- The following algorithms are suitable for Global DNA sequence allignment. 
+ The following algorithms are suitable for **Global** DNA sequence allignment. 
 
  You may find jupyter notebooks containing an implementation and visualization of the following algorithms: 
 
