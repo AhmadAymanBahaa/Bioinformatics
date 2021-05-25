@@ -12,4 +12,6 @@
   
  **2- Needleman-Wunch Algorithm**
  
+ ![image](https://user-images.githubusercontent.com/48836158/119562716-f0605d00-bda6-11eb-808f-436fe9399f04.png)
+
  **3- Smith-Waterman Algorithm**
