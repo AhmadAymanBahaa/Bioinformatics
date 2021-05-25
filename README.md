@@ -1,4 +1,6 @@
-# Bioinformatics
+# Bioinformatics - Sequence Allignment 
+# Dot Matrix & Needleman-Wunch Algorithm 
+
  This repository contains implementations to different algorithms used in the Bioinformatics field. 
  The following algorithms are suitable for **Global** DNA sequence allignment. 
 
