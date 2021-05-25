@@ -1,4 +1,4 @@
-# Bioinformatics - Sequence Allignment 
+# Bioinformatics - Sequence Alignment 
 ## Dot Matrix & Needleman-Wunch Algorithms
 
  This repository contains implementations to different algorithms used in the Bioinformatics field. 
