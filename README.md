@@ -1,5 +1,5 @@
 # Bioinformatics - Sequence Alignment 
-## Dot Matrix & Needleman-Wunch Algorithms
+## Dot Matrix, Needleman-Wunch & Smith-Waterman Algorithms
 
  This repository contains implementations to different algorithms used in the Bioinformatics field. 
  The following algorithms are suitable for **Global** DNA sequence allignment. 
@@ -11,3 +11,5 @@
   ![image](https://user-images.githubusercontent.com/48836158/119528199-48846880-bd81-11eb-818c-4dc939def6e9.png)
   
  **2- Needleman-Wunch Algorithm**
+ 
+ **3- Smith-Waterman Algorithm**
