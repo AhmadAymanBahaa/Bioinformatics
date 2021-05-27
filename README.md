@@ -12,7 +12,7 @@
   
  **2- Needleman-Wunch Algorithm**
  
-![image](https://user-images.githubusercontent.com/48836158/119815159-8a312280-beeb-11eb-95ef-f77b6c73d9a3.png)
+![image](https://user-images.githubusercontent.com/48836158/119820731-17777580-bef2-11eb-86b0-a27237d184fe.png)
 
  **3- Smith-Waterman Algorithm**
  
