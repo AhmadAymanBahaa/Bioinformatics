@@ -16,4 +16,5 @@
 
  **3- Smith-Waterman Algorithm**
  
-![image](https://user-images.githubusercontent.com/48836158/119821007-5efe0180-bef2-11eb-8cb0-43ffc593d3d8.png)
+ ![image](https://user-images.githubusercontent.com/48836158/120171649-8ca0be80-c202-11eb-80d7-462e0be9187b.png) 
+ 
